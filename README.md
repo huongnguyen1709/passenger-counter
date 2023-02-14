@@ -9,9 +9,9 @@ Follow freeCodeCamp.org
 
 ### Built With
 
-- [HTML]
-- [CSS]
-- [JavaScript]
+- HTML
+- CSS
+- JavaScript
 
 <!-- GETTING STARTED -->
 
