@@ -7,7 +7,7 @@
 Follow freeCodeCamp.org
 ![alt text](passenger-counter.png)
 
-### Built With
+## Built With
 
 - HTML
 - CSS
@@ -15,13 +15,26 @@ Follow freeCodeCamp.org
 
 <!-- GETTING STARTED -->
 
-### Installation
+## Installation
 
 Clone the repo
 
 ```sh
 git clone https://github.com/huongnguyen1709/passenger-counter
 ```
+
+## Recap
+
+- script tag
+- variables
+- numbers
+- strings
+- console.log()
+- functions
+- The DOM
+- getElementById()
+- innerText
+- textContent
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
