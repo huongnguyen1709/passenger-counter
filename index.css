@@ -1,5 +1,10 @@
 body {
   background-color: antiquewhite;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
 }
 
 h1 {
@@ -20,14 +25,24 @@ button {
   color: white;
   font-weight: bold;
   width: 200px;
-  margin-bottom: 5px;
+
   border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 #increment-btn {
   background: darkred;
+  margin-bottom: 10px;
 }
 
 #save-btn {
   background: darkgreen;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#save-el {
+  font-size: 22px;
 }

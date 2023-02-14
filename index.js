@@ -12,7 +12,7 @@ function increment() {
 
 function save() {
   let countStr = ' ' + count;
-  saveEl.innerText += countStr;
+  saveEl.textContent += countStr;
   countEl.innerText = 0;
   count = 0;
 }
